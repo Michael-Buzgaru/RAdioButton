@@ -1,0 +1,53 @@
+window
+{
+    background-color:   green;
+}
+
+grid
+{
+    background-color:   orange;
+}
+
+radiobutton
+{
+    background-color:   red;
+    color:              white;
+}
+
+/*
+.button, radio
+{
+    background-color:   yellow;
+}*/
+
+/*
+radiobutton > radio
+{
+    background-color:   black;
+}*/
+
+radiobutton:checked
+{
+    background-color:   brown;
+    color:              white;
+}
+
+/*radiobutton:hover
+{
+    background-color:   black;
+    color:              white;
+}*/
+
+/*
+radiobutton:active
+{
+    background-color:   black;
+    color:              white;
+}
+*/
+
+/*radiobutton:focus
+{
+    background-color:   magenta;
+    color:              white;
+}*/
